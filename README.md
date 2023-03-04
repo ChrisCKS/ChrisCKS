@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá, meu nome é Christian Kevelyn, tenho 20 anos, estou cursando Engenharia da Computação na Universidade de Araraquara
+## Minhas competências:
 
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/> 

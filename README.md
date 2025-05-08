@@ -1,4 +1,4 @@
-## Olá, meu nome é Christian Kevelyn, tenho 21 anos, estou cursando Engenharia da Computação na Universidade de Araraquara
+## Olá, meu nome é Christian Kevelyn, tenho 22 anos, estou cursando Engenharia da Computação na Universidade de Araraquara
 ## Minhas competências:
 
 

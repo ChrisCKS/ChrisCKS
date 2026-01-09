@@ -1,5 +1,5 @@
 ## Olá, meu nome é Christian Kevelyn, tenho 22 anos, estou cursando Engenharia da Computação na Uniara
-## Atualmente estou estagiando como Dev Back-End
+## Atualmente estou estagiando na [5By5][(https://techsolutions.com)](https://5by5.com.br/) como devesenvolvedor Back-End
 ## Meus conhecimentos:
 
 
@@ -16,6 +16,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMq" alt="RabbitMq" width="40" height="40" />
+
+
+
+
+
+
+
+
 
 
                     

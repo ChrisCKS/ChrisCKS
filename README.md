@@ -20,22 +20,15 @@
 
 
 
-
-
-
-
-
-
-
-                    
+           
           
-  </div>
 <div align="center">
- <a href="https://github.com/ChrisCKS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisCKS&count_private=true&show_icons=true&theme=blue-green&include_all_commits=true&border_radius=0&hide_border=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrisCKS&layout=compact&langs_count=10&theme=blue-green&border_radius=0&hide_border=true" />
- </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCKS&layout=donut&theme=green_nur&hide_border=true"
+    height="200"
+  />
 </div>
+
 
 <!--
 **ChrisCKS/ChrisCKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

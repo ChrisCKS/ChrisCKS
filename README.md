@@ -1,6 +1,7 @@
 ## Olá, meu nome é Christian Kevelyn, tenho 22 anos, estou cursando Engenharia da Computação na Uniara
-## Atualmente estou estagiando na [5By5][(https://techsolutions.com)](https://5by5.com.br/) como devesenvolvedor Back-End
+## Atualmente estou estagiando na [5By5](https://5by5.com.br/) como desenvolvedor Back-End
 ## Meus conhecimentos:
+
 
 
 <div align="center">

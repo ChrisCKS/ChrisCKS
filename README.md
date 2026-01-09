@@ -20,8 +20,6 @@
 <br/>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCKS&layout=donut&langs_count=6&hide=html,css&theme=green_nur&hide_border=true"
-    height="200"
-  />
+  <img src="https://metrics.lecoq.io/ChrisCKS?template=classic&languages=1&languages.limit=8&languages.colors=green&languages.threshold=0%&config.timezone=America/Sao_Paulo" />
 </div>
+
